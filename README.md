@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SIDHARTH P T</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **GraphQL**
 
-- 💬 Ask me about **Node,React,MongoDB**
+- 💬 Ask me about **Javascript,Node,React,MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
